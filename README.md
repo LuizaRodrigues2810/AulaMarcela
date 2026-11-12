@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧑‍💼 AulaMarcela — Cadastro de Cliente com Java Swing
+# 🧑‍💼 Aula Marcela — Cadastro de Cliente com Java Swing
 
 **Uma interface gráfica simples (1 rótulo + 1 campo de texto + 1 botão) construída com Programação Orientada a Objetos.**
 
@@ -423,7 +423,7 @@ Criar a `TelaCadastroCliente` já chama `initComponents()` e termina com `setVis
 
 ## 👩‍💻 Autoria
 
-Projeto desenvolvido por [**@LuizaRodrigues2810**](https://github.com/LuizaRodrigues2810) durante a aula de Interface Gráfica com Swing.
+Projeto desenvolvido por Maria Luiza durante a aula de Interface Gráfica com Swing, ministrada pela Prof. Marcela Souza.
 
 <div align="center">
 
