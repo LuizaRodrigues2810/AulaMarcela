@@ -1,8 +1,5 @@
+public static void main(String[] args) {
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-void main() {
+    TelaCadastroCliente tela = new TelaCadastroCliente();
 
-    Cliente cliente = new Cliente("Karine");
-    IO.println("Nome do cliente: " + cliente.getNome());
 }
